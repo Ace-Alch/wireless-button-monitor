@@ -10,6 +10,17 @@ ATmega328P · Embedded C · UART · Battery sensing
 [Overview](#overview) · [Design](portfolio/DESIGN.md) · [Setup](portfolio/SETUP.md) · [Validation](portfolio/VALIDATION.md) · [Evidence](portfolio/EVIDENCE.md)
 </div>
 
+<!-- project-navigation:start -->
+<p align="center">
+  <a href="https://ace-alch.github.io/work/wireless-button-monitor/"><img alt="View project" src="https://img.shields.io/badge/View%20project-f59e0b?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="portfolio/DESIGN.md"><img alt="Explore design" src="https://img.shields.io/badge/Explore%20design-30363d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="portfolio/SETUP.md"><img alt="Setup guide" src="https://img.shields.io/badge/Setup%20guide-30363d?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="portfolio/EVIDENCE.md"><img alt="Check evidence" src="https://img.shields.io/badge/Check%20evidence-30363d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+</p>
+<p align="center"><strong>Circuit and firmware</strong> &nbsp; / &nbsp; Engineering &nbsp; / &nbsp; <a href="https://ace-alch.github.io/">Mehdi's portfolio</a></p>
+<!-- project-navigation:end -->
+
+
 ## Overview
 
 | Item | Record |
@@ -30,12 +41,11 @@ Monitor four inputs and battery state, with a serial interface for a radio modul
 - Battery indication
 - Serial radio interface
 
-## Start here
+## Explore the project
 
-1. Read the [design record](portfolio/DESIGN.md) for the system elements and boundaries.
-2. Follow the [setup record](portfolio/SETUP.md) for available entry points.
-3. Use the [validation plan](portfolio/VALIDATION.md) to record reproducible results.
-4. Check the [evidence register](portfolio/EVIDENCE.md) before reusing claims.
+| Design | Setup | Validation | Evidence |
+| :-- | :-- | :-- | :-- |
+| [System and boundaries](portfolio/DESIGN.md) | [Available entry points](portfolio/SETUP.md) | [Test plan](portfolio/VALIDATION.md) | [Verified material](portfolio/EVIDENCE.md) |
 
 ## Source status
 
