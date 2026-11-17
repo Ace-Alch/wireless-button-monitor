@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Wireless Button Monitor project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/wireless-button-monitor.webp" width="100%" alt="wireless-button-monitor — concept artwork">
 
 # Wireless Button Monitor
 
